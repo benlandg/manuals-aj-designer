@@ -1,0 +1,6 @@
+name: omega designer manual
+title: OMEGA Designer's Manual
+version: '1'
+nav:
+  - modules/ROOT/nav.adoc
+start_page: OMEGAmanualPages.adoc
