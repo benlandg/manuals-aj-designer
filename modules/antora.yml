@@ -1,5 +1,5 @@
 name: omega designer manual
-title: OMEGA Designer's Manual
+title: OMEGA-Series
 version: '1'
 nav:
   - modules/ROOT/nav.adoc

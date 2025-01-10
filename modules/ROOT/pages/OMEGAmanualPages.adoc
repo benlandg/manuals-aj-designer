@@ -1,0 +1,48 @@
+= Designer's Manual
+:subtitle-name: Designer's Manual
+:toc: macro
+:toclevels: 4
+:doctype: book
+:media: print
+:xrefstyle: short
+:sectnums: 
+:!chapter-signifier:
+
+
+:product-family: OMEGA
+
+//include some variables
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=attributes]
+
+
+//include content
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=basicPreface]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=companyPresentation]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=configuration,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=generalStructure,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=principles,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=productAdvantages,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=typicalApplication,leveloffset=+1]
+
+
+
