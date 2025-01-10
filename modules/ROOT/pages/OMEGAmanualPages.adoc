@@ -10,6 +10,7 @@
 
 
 :product-family: OMEGA
+:product-name: OMEGA-series waterjets
 
 //include some variables
 
@@ -18,17 +19,34 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=attributes]
 
 //include content
 
-include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=basicPreface]
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=intro]
 
 <<<
 
-include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=companyPresentation]
+include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=contact,leveloffset=+1]
 
 <<<
 
-include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=configuration,leveloffset=+1]
+include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=sparePart,leveloffset=+1]
 
 <<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=warranty,leveloffset=+1]
+
+<<<
+
+== How to use this manual
+
+<<<
+
+include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tags=safetyNotation;otherNotation;graphSymbols,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=companyPresentation]
+
+
+== {product-name}
 
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=generalStructure,leveloffset=+1]
 
@@ -44,5 +62,15 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=productAdvantages,le
 
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=typicalApplication,leveloffset=+1]
 
+<<<
 
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=prediction]
+
+<<<
+
+== Design Considerations
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=integratingHull,leveloffset=+1]
 
