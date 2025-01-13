@@ -1,5 +1,5 @@
 name: omega designer manual
-title: OMEGA-Series Waterjet
+title: OMEGA-Series Waterjets
 version: '1'
 nav:
   - modules/ROOT/nav.adoc

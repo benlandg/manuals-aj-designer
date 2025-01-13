@@ -47,7 +47,7 @@ include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tags=safetyNotation;othe
 include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=companyPresentation]
 
 
-== {product-name}
+== {product-family}-Series Waterjets
 
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=generalStructure,leveloffset=+1]
 
@@ -74,4 +74,8 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=prediction]
 <<<
 
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=integratingHull,leveloffset=+1]
+
+<<<
+
+include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=integratingDriveline,leveloffset=+1]
 
