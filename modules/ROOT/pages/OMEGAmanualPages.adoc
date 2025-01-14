@@ -8,7 +8,7 @@
 :sectnums: 
 :!chapter-signifier:
 
-
+//Do not define model-name in this manual, it is reserved for jets models only. This breaks the conditional statements.
 :product-family: OMEGA
 :product-name: OMEGA-series waterjets
 :product-type: WJ
