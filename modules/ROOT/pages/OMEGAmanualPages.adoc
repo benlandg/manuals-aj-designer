@@ -15,6 +15,8 @@
 
 //include some variables
 
+include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=attributes]
+
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=attributes]
 
 
