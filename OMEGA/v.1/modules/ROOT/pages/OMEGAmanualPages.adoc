@@ -5,11 +5,6 @@
 //:sectnums: 
 :!chapter-signifier:
 
-//Do not define model-name in this manual, it is reserved for jets models only. This breaks the conditional statements.
-:product-family: OMEGA
-:product-name: OMEGA-series waterjets
-:product-type: WJ
-
 //include some variables
 
 include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=attributes]
@@ -25,9 +20,6 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=intro]
 
 include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=contact,leveloffset=+1]
 
-<<<
-
-include::shared-content:ROOT:00-00-00-00-00-0_0_EN.adoc[tag=sparePart,leveloffset=+1]
 
 <<<
 

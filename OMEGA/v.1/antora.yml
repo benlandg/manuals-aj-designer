@@ -4,3 +4,13 @@ version: 'v.1'
 nav:
   - modules/ROOT/nav.adoc
 start_page: OMEGAmanualPages.adoc
+
+
+asciidoc:
+  attributes:
+    #Do not define model-name in this manual, it is reserved for jets models only. This breaks the conditional statements.
+    product-family: OMEGA
+    product-name: OMEGA-series waterjets
+    product-type: WJ
+    #No maintenance in this manual
+    maintenance!:
