@@ -1,11 +1,8 @@
 = Designer's Manual
 :subtitle-name: Designer's Manual
 :toc: macro
-:toclevels: 4
-:doctype: book
-:media: print
-:xrefstyle: short
-:sectnums: 
+//:xrefstyle: short
+//:sectnums: 
 :!chapter-signifier:
 
 //Do not define model-name in this manual, it is reserved for jets models only. This breaks the conditional statements.

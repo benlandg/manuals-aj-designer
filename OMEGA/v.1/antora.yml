@@ -1,6 +1,6 @@
-name: omega designer manual
+name: OMDM
 title: OMEGA-Series Waterjets
-version: '1'
+version: 'v.1'
 nav:
   - modules/ROOT/nav.adoc
 start_page: OMEGAmanualPages.adoc
