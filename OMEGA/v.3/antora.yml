@@ -1,6 +1,6 @@
 name: DM
 title: OMEGA-Series Waterjets
-version: 'v.1'
+version: 'v.3'
 nav:
   - modules/ROOT/nav.adoc
 start_page: OMEGAmanualPages.adoc
