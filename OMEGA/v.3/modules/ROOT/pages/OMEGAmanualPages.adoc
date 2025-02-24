@@ -64,9 +64,16 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=prediction]
 
 <<<
 
+//include some variables, the order is critical
+
+include::shared-content:ROOT:WJ-OMEGA-37-00-00-0_0_EN.adoc[tag=attributes]
+
 include::shared-content:ROOT:WJ-OMEGA-37-00-00-0_0_EN.adoc[tag=specifications, leveloffset=+1]
 
 <<<
+//include some variables, the order is critical
+
+include::shared-content:ROOT:WJ-OMEGA-42-00-00-0_0_EN.adoc[tag=attributes]
 
 include::shared-content:ROOT:WJ-OMEGA-42-00-00-0_0_EN.adoc[tag=specifications, leveloffset=+1]
 
