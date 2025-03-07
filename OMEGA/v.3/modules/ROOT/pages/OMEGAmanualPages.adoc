@@ -103,3 +103,9 @@ include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=aqGlossary]
 
 include::shared-content:ROOT:WJ-00-00-00-00-0_0_EN.adoc[tag=unitConversion]
 
+//This content will only appear in the pdf.
+ifdef::loader-assembler[]
+image::shared-content:ROOT:WJ-00-00-00-0_EN_applicationQuestionnaire.pdf[]
+endif::[]
+
+
